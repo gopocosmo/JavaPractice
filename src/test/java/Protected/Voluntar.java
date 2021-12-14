@@ -19,6 +19,9 @@ public class Voluntar {
         System.out.println("Public");
     }
 
+
+    /*ceva*/
+
     private void metodaPrivata(){
         System.out.println("Privat");
     }
